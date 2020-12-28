@@ -734,6 +734,38 @@ iframe {
 	#testimonials {
 		height: auto;
 	}
+
+}
+
+@media (max-width: 420px) {
+	.download {
+		margin-left: 40px;
+	}
+
+	.profile img {
+		margin-left: 50px;
+	}
+
+	.social i {
+		padding: 5px;
+	}
+
+	.contact__left {
+		margin-left: 20px;
+	}
+
+	.mail {
+		margin-top: 0;
+		margin-right: 40px
+	}
+
+	 .decor {
+	 	margin-left: 60px;
+	 }
+
+	 .form-inner input[type="submit"] {
+	 	font-size: 10px;
+	 }
 }
 
 
