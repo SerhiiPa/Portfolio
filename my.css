@@ -708,5 +708,33 @@ iframe {
 	}
 }
 
+@media (max-width: 670px) {
+
+	.nav-wrap {
+		margin: 0;
+	}
+
+	.banner-text {
+    	margin: 20px auto;
+	}
+
+	.title {
+		margin: 10px auto;
+		font-size: 40px;
+	}
+
+	.header {
+		height: auto;
+	}
+
+	.arrow i {
+    	margin-top: 40px;
+	}
+
+	#testimonials {
+		height: auto;
+	}
+}
+
 
 
